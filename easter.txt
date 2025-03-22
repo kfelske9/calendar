@@ -1,0 +1,21 @@
+01 01	Neujahr
+0106	3 Könige
+0501	1.Mai
+1003	3.Oktober
+1225	1.Weihnachtstag
+1226	2.Weihnachtstag
+
+Negative values depending from Ostern easter -1000 = Eastersunday
+- 948	Altweiberfasching
+- 998	Karfreitag
+-1001	Ostermontag
+-1039	Christi Himmelfahrt
+-1050	Pfingstmontag
+-1060	Frohnleichnahm
+
+-2000	the russian eastern
+-3000	arabic ramadan
+-4000	israel celebations
+-5000	hindu celebations
+-6000	chinese celebations
+

@@ -1,0 +1,36 @@
+Birthdays please like "(YYYY) MM DD" eintragen!
+02 17			Klaus
+   59_01_02		Rudi
+   0124			Markus
+   0219			Kurt
+   0211			Emily
+   0305			Gerika Ghiban
+   0309			Anette
+   0321			Rafael Pross
+   0324			Likas Diana
+   0424			Dimitri
+   0421			Frank Berweck
+   0406			Eckhardt Garbrecht
+   0409			Pascal Garbrecht
+   0422			Melanie Garbrecht
+   0425			Tanja
+   0508			Mahmut
+   0520			Susanne
+   0610			Gaby Walter
+   0614			Christoph Walter
+   0626			Bernhard Kunkel
+20150701		Cara Lilly
+   0706			Edeltraut Gässler
+   0912			Jessica
+   0912			Lika
+   0926			Zora
+   1007			Elke
+20161022		Roxi
+   1021			Markus Schäufele
+   1029			Jonas Kornelius 
+   1115			Helga
+   1207			Thomas Keller
+   1220			Jay
+   1230			Ute
+   
+
